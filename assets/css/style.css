@@ -71,6 +71,7 @@ nav a {
     padding: 30px;
     background: #fff;
     border: 1px solid #ddd;
+    max-width: 960px;
   }
 
 .auth-image {
@@ -83,7 +84,7 @@ nav a {
 .work {
     position: relative;
     float: left;
-    width: 274px;
+    width: 258px;
     height: 250px;
     margin: 20px 20px 25px;
     overflow: hidden;
