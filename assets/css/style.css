@@ -29,7 +29,7 @@ h1 {
     margin: auto;
 }
 
-.col-sm-12 {
+.col-sm-12, .col-md-6 {
     width: 100%;
     padding: 0;
     margin: 0;
@@ -59,19 +59,20 @@ nav {
     margin-top: 28px;
 }
   
-nav a {
-    color: #999;
+a {
+    color: #4aaaa5;
     text-decoration: none;
 }
 
 
 /* Main Content for About Me */
 
-#main-section {
+#main-section, #portfolio {
     padding: 30px;
     background: #fff;
     border: 1px solid #ddd;
     max-width: 960px;
+    margin-bottom: 30px;
   }
 
 .auth-image {
@@ -128,7 +129,6 @@ footer {
     background: #666;
     border-top: 8px solid #4aaaa5;
     height: 50px;
-    position: fixed;
     bottom: 0;
     width: 100%;
   }
