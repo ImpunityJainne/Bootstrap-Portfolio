@@ -1,7 +1,8 @@
 body {
     color: #777;
-    background: url("../images/full-bloom/full-bloom.png");
+    /* background: url("../images/full-bloom/full-bloom.png"); */
     font-family: 'Open Sans', sans-serif;
+    background-color: whitesmoke;
 }
 
 .container-fluid {
